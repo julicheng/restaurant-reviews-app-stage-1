@@ -1,5 +1,5 @@
 # Restaurant Reviews App
-This was a static restaurant reviews application that has now been converted into mobile friendly application. 
+This was a static restaurant reviews application that has now been converted into a mobile friendly application. 
 
 To view maps on the application, you will need to replace `<your MAPBOX API KEY HERE>` in the main.js and restaurant_info.js file with a token from [Mapbox](https://www.mapbox.com/).
 
