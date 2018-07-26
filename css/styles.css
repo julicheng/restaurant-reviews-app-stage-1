@@ -175,6 +175,7 @@ nav h1 a {
 
 .restaurant-img {
   object-fit: content;
+  width: 100%;
 }
 
 #restaurants-list li h3 {
